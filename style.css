@@ -6,16 +6,16 @@
 
 @font-face {
   font-family: "Okra";
-  src: url("./fonts/Okra-Regular.woff2") format("woff2"),
-    url("./fonts/Okra-Regular.woff") format("woff");
+  src: url("./Okra-Regular.woff2") format("woff2"),
+    url("./Okra-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Okra-medium";
-  src: url("./fonts/Okra-Medium.woff2") format("woff2"),
-    url("./fonts/Okra-Medium.woff") format("woff");
+  src: url("./Okra-Medium.woff2") format("woff2"),
+    url("./Okra-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
